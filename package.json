@@ -1,5 +1,5 @@
 {
-  "name": "threejscc-portfolio",
+  "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -46,5 +46,13 @@
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livgonsalves/my-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/livgonsalves/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/livgonsalves/my-portfolio#readme"
 }
