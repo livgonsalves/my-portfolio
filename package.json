@@ -40,7 +40,7 @@
     "globals": "^15.9.0",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10",
-    "vite": "^5.4.7"
+    "vite": "^5.4.8"
   },
   "description": "<div align=\"center\">   <br />     <a href=\"https://youtu.be/kt0FrkQgw8w\" target=\"_blank\">       <img src=\"https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173\" alt=\"Project Banner\">     </a>   <br />",
   "main": "eslint.config.js",
