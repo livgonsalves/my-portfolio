@@ -73,26 +73,26 @@ const About = () => {
         </div>
 
         <div className="xl:col-span-2 xl:row-span-3">
-          <div className="grid-container">
-            <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
+  <div className="grid-container">
+    <img src="assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain" />
+    
+    <div>
+      <p className="grid-headtext">Skills</p>
+      <p className="grid-subtext">
+        • <strong>Languages:</strong> JavaScript (ES5/ES6), Typescript, C#, C++, HTML, Python, JAVA, PHP, CSS(SASS/SCSS), .NET, XAML, JSON<br />
+        • <strong>Frameworks:</strong> Node.js, Express.js, Vue.js, React.js, Flutter, AngularJS, Django, Ruby, Require.js, UWA, WebUI, Spring Boot<br />
+        • <strong>Tools:</strong> Git, Jupyter Notebook, Android Studio, Eclipse, AWS, Azure, Google Cloud, Visual Studio, Docker, Jenkins, Kubernetes<br />
+        • <strong>Skills:</strong> Front-end Development, Back-end Development, Full Stack Development, Agile Methodologies, Microservices, Service-Oriented Architecture (SOA), Cloud Infrastructure, REST API Development<br />
+        • <strong>Testing:</strong> Jasmine, Karma, Unit Testing, Integrated Testing, Automated Testing, Test-Driven Development (TDD)<br />
+        • <strong>Databases:</strong> Oracle, MySQL, MongoDB, Firebase, MS SQL, NuoDB<br />
+        • <strong>Scripting:</strong> Bash, PowerShell, Perl<br />
+        • <strong>Cloud:</strong> AWS, Azure, Google Cloud Platform, Docker, Kubernetes<br />
+        • <strong>DevOps:</strong> CI/CD Pipelines, Infrastructure as Code (IaC), Monitoring and Logging (ELK, Prometheus, Grafana)
+      </p>
+    </div>
+  </div>
+</div>
 
-            <div>
-              <p className="grid-headtext">Skills</p>
-              <p className="grid-subtext">
-              • Languages: JavaScript (ES5/ES6), Typescript, C#, C++, HTML, Python, JAVA, PHP, CSS(SASS/SCSS), .NET, XAML, JSON
-              • Frameworks: Node.js, Express.js, Vue.js, React.js, Flutter, AngularJS, Django, Ruby, Require.js, UWA, WebUI, Spring Boot
-              • Tools: Git, Jupyter Notebook, Android Studio, Eclipse, AWS, Azure, Google Cloud, Visual Studio, Docker, Jenkins, Kubernetes
-              • Skills: Front-end Development, Back-end Development, Full Stack Development, Agile Methodologies, Microservices,
-              Service-Oriented Architecture (SOA), Cloud Infrastructure, REST API Development
-              • Testing: Jasmine, Karma, Unit Testing, Integrated Testing, Automated Testing, Test-Driven Development (TDD)
-              • Databases: Oracle, MySQL, MongoDB, Firebase, MS SQL, NuoDB
-              • Scripting: Bash, PowerShell, Perl
-              • Cloud: AWS, Azure, Google Cloud Platform, Docker, Kubernetes
-              • DevOps: CI/CD Pipelines, Infrastructure as Code (IaC), Monitoring and Logging (ELK, Prometheus, Grafan
-              </p>
-            </div>
-          </div>
-        </div>
 
         <div className="xl:col-span-1 xl:row-span-2">
           <div className="grid-container">

@@ -270,7 +270,7 @@ export const workExperiences = [
   {
     id: 2,
     name: 'Dassault Systèmes',
-    pos: 'Software Engineer Intern',
+    pos: 'Software Engineer',
     duration: 'January 2024 - June 2024',
     title: "Developed and enhanced ENOVIA's sourcing applications on the 3DEXPERIENCE platform using UWA, RequireJS, and advanced JavaScript techniques, integrating RESTful APIs, leading UI/UX improvements, and implementing CI/CD pipelines and Test-Driven Development for efficient, customer-focused solutions.",
     icon: '/my-portfolio/assets/ds.png',
@@ -287,8 +287,17 @@ export const workExperiences = [
   },
   {
     id: 4,
+    name: 'CadDesk',
+    pos: 'Software Engineer',
+    duration: 'June 2021 - August 2021',
+    title: "Spearheaded developing, deploying and debugging new features and maintaining existing web applications using HTML5, CSS3, JavaScript (ES6), and React.js, resulting in improved user satisfaction through well-organized code and responsive UI.",
+    icon: '/my-portfolio/assets/caddesk.jpeg',
+    animation: 'salute',
+  },
+  {
+    id: 5,
     name: 'SangHarsh',
-    pos: 'Software Development Intern',
+    pos: 'Software Developer',
     duration: 'January 2019 - May 2019',
     title: "Developed a crowdfunding website using CSS3, HTML5, and JavaScript, raising $70,000 and enhancing donor engagement with features like a donation tracker and donor wall.",
     icon: '/my-portfolio/assets/notion.svg',
